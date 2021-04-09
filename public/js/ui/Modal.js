@@ -20,7 +20,7 @@ class Modal {
    
      this.element = element;
      console.log(this.element); 
-     registerEvents(); 
+     this.registerEvents(); 
    //  Modal.registerEvents();
         
   }
